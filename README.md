@@ -67,10 +67,10 @@ skeleton-back 패키지 우클릭 -> run as -> Spring Boot App
 ## 📜 기획
 
 ### 와이어프레임 
-[이동하기](https://lab.ssafy.com/s03-webmobile2-sub2/s03p12a307/blob/develop/doc/_%EC%84%9C%EC%9A%B8A307_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.pdf)
+[이동하기](https://github.com/colinder/PROJECT_GoodDoc/tree/develop/doc/_%EC%84%9C%EC%9A%B8A307_%EC%99%80%EC%9D%B4%EC%96%B4%ED%94%84%EB%A0%88%EC%9E%84.pdf)
 
 ### ERD (추후 수정 요망) 
-[이동하기](https://lab.ssafy.com/s03-webmobile2-sub2/s03p12a307/blob/develop/doc/_%EC%84%9C%EC%9A%B8_A307_Database_ERD.png)
+[이동하기](https://github.com/colinder/PROJECT_GoodDoc/tree/develop/doc/_%EC%84%9C%EC%9A%B8_A307_Database_ERD.png)
 
 ---
 
@@ -153,7 +153,7 @@ skeleton-back 패키지 우클릭 -> run as -> Spring Boot App
  ┃ ┗ 📜store.js
  ┣ 📜App.vue
  ┗ 📜main.js
- ```
+```
 
 ### 폴더 구조 - Backend
 ```
