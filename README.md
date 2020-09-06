@@ -222,12 +222,12 @@ merge 하기 전에 서로 코드 리뷰하기
 merge 후 브랜치 지우기
 ```
 
-### [commit 메시지](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a307/wikis/%F0%9F%93%9D-GIT-%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B6%84%EB%A5%98)
+### [commit 메시지](https://github.com/colinder/PROJECT_GoodDoc/wiki/%F0%9F%93%9D-GIT-%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%84%B8%EC%A7%80-%EB%B6%84%EB%A5%98)
 ```
 Emoji / 커밋내용(영문,70자 미만) / JIRA ISSUE No.
 ```
 
-### [개발 컨벤션](https://lab.ssafy.com/s03-webmobile2-sub3/s03p13a307/wikis/%F0%9F%93%9D-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
+### [개발 컨벤션](https://github.com/colinder/PROJECT_GoodDoc/wiki/%F0%9F%93%9D-%EA%B0%9C%EB%B0%9C-%EC%BB%A8%EB%B2%A4%EC%85%98)
 ```
 Upper, Lower Camel Case
 
