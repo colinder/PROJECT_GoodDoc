@@ -1,11 +1,11 @@
-﻿![image](/uploads/f9f11cd2cffd91814e928b519f946885/image.png)
+﻿
 
 ## 🎈 프로젝트 이름 : 굿닥터
 
 ## 👨‍👩‍👦‍👦  팀원소개
 ### 👦 김지효(팀장/Frontend) : Front 디자인, 피드
 ### 🧑 문용호(CTO/Backend) : AWS 배포, QR 코드 기능
-### 🧔 김종관(Frontend) : Front 디자인, 병원 정보
+### 🧔 김종관(Frontend) : Front 디자인, DB전처리
 ### 🧑 김대용(Backend) : SNS 로그인, 카카오 맵
 ### 🧒 방승환(Backend) : SNS 로그인, 페이징
 
